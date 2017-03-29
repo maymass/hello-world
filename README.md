@@ -1,2 +1,3 @@
 # hello-world
-a tiny program
+a tiny program...
+hello! my name is may, i am a software engineering student!
